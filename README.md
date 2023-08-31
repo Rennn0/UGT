@@ -1,3 +1,3 @@
 # UGT
-.ts packages from UGT
+packages from UGT
 
