@@ -1,2 +1,3 @@
 # UGT
-NPM packages from UGT
+.ts packages from UGT
+
